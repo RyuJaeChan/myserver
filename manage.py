@@ -2,6 +2,8 @@
 import os
 import sys
 
+####https://docs.djangoproject.com/ko/2.0/intro/tutorial03/
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "myserver.settings")
     try:
